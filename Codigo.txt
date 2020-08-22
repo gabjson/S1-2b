@@ -1,0 +1,19 @@
+*** Codigo *** 
+
+Linguagem : -  O back-end em si no site será em NodeJs com integração ao banco e interções com o Front-end :
+			- Visual Studio Code  
+			- Insomnia
+
+            -  O back-end do App seria em kotlin : 
+			- Android Studio 
+
+	    -  Banco De Dados em Sql  : 
+			- SqlServer
+	
+	    -  O Front-end  será em  React, Css, Booststrap e Html 5  : 
+			-  Visual Studio Code
+			-  Dev tools Chrome Extension
+			-  Photoshop / Ninja Mock para Desenho da tela
+
+	    
+ 

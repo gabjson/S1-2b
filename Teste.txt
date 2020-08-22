@@ -1,0 +1,5 @@
+*** Teste ***
+
+O projeto será divido em sprints pois será utilizado a metodologia Scrum, Em cada  sprint será realizado os testes na ferramenta TesteLink
+com ele será realizado um roteiro de testes e dividir por cenarios, antes de passar para proxima sprint será necessario corrigir os cenarios que houverem erros e obviamente haverá prazos para essas sprints.
+	

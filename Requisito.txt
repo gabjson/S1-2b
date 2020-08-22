@@ -1,0 +1,3 @@
+*** Requisitos ***
+
+O Cliente necessitará de um dispositivo com acesso a internet e com requisitos de hardware ao menos o sistema operacional iOS. em dispositivos Apple e em aparelhos Android com ao minimo o Sistema Android 

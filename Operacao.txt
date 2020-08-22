@@ -1,0 +1,7 @@
+*** Operação ***
+
+  -  Nós contrataremos um serviço de cloud na Azure/ Aws para hospedagem do site - Além de evitar custos com      servidores locais nós traz uma maior segurança 
+
+ -  Para o nosso Datacenter a hospedagem será na Equinix 
+
+ -  Para segurança de Dados utilizaremos o Deep Security e monitoramento dos mesmo o Splunk 
